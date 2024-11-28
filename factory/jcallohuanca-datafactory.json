@@ -1,0 +1,9 @@
+{
+	"name": "jcallohuanca-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6339050-d242-458f-a1e8-1b448bc88541",
+		"tenantId": "da5c2ac7-91a3-47a8-b16b-f41d9fe3b9e0"
+	}
+}
